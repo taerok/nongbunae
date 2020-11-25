@@ -2,7 +2,7 @@
 
 <h2>
 <div align=center>
-서울 A105 - 슬기로운 재배생활 / 농부네 텃밭
+슬기로운 재배생활 / 농부네 텃밭
 </div>
 </h2>
 
@@ -69,10 +69,6 @@
 * Frontend / Backend 의 사용 Package
 * 코드 실행 방법
 * IoT 장비 구성품 및 작동 방법
-
-### 🌾 [팀원 소개](#팀원-소개)
-
-
 
 
 
@@ -210,17 +206,6 @@
 |            Flask            |   1.1.2    | flask 라이브러리                     |
 |           PyMySQL           |   0.10.1   | flask와 mysql연동                    |
 |           requests          |   2.24.0   | Rest Api 를 위한 라이브러리          | 
-
-
-## 팀원 소개
-
-### 🌾 A105 슬기로운 재배생활
-
-* **진슬기** - *PM, IoT, backend*- [jinpig2127](https://lab.ssafy.com/jinpig2127)
-* **박지은** - *backend* - [wong_303](https://lab.ssafy.com/wong_303)
-* **박태록** - *frontend* - [sdf7575](https://lab.ssafy.com/sdf7575)
-* **서정하** - *IoT, backend* - [seoroda](https://lab.ssafy.com/seoroda)
-* **오지수** - *frontend* - [wltn0213](https://lab.ssafy.com/wltn0213)
 
 
 
